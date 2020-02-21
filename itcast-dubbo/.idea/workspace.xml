@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41fbfd3b-4bf0-4379-9b71-b1c5c6c2c410" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Hello\MyRepository" />
+        <option name="mavenHome" value="D:/Hello/apache-maven-3.2.5-bin/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="C:\Users\Lenovo\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V10yv1FoEErS7gdUgf44gqXDHV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.deng.dubbo.App" />
+      <module name="itcast-dubbo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="80" key="#Project_Structure" timestamp="1576406575071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="685" y="80" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1576406575071" />
+    <state x="447" y="76" width="1089" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576652827362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="76" width="1089" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576652827362" />
+    <state x="873" y="175" key="FileChooserDialogImpl" timestamp="1576406564349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="873" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576406564349" />
+    <state width="831" height="203" key="GridCell.Tab.0.bottom" timestamp="1576406829435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="831" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576406829435" />
+    <state width="831" height="203" key="GridCell.Tab.0.center" timestamp="1576406829435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="831" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576406829435" />
+    <state width="831" height="203" key="GridCell.Tab.0.left" timestamp="1576406829435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="831" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576406829435" />
+    <state width="831" height="203" key="GridCell.Tab.0.right" timestamp="1576406829435">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="831" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576406829435" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1576652811002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576652811002" />
+  </component>
+</project>
